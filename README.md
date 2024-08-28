@@ -52,4 +52,4 @@ We welcome contributions to improve CodeTracker! If you'd like to contribute:
 
 ## Contact
 
-For any questions or support, please contact me at [chinmaysankolekar@gmail.com](mailto:chinmaysankolekar@gmail.com).
+For any questions or support, please contact me at [manantyagi23@gmail.com](mailto:manantyagi23@gmail.com).
